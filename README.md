@@ -1,4 +1,4 @@
-### <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm seungho</p>
+### <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm gyeongmoog</p>
 
 <p align="center"> 
   <a href="https://github.com/naho199345"><img src="https://typing-text-svg.herokuapp.com?font=&color=1E8CBE&center=true&vCenter=true&lines=Kim+seung+ho+;%F0%9F%9A%80+Junior+Back-End+Developer;"></a>
